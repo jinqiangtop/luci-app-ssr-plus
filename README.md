@@ -21,7 +21,7 @@
     #进入新建的文件夹
     cd openwrt-packages
     #下载源码
-    git clone https://github.com/maxlicheng/luci-app-ssr-plus.git
+    git clone https://github.com/jinqiangtop/luci-app-ssr-plus.git
     #回到源码根目录
     cd ../..
     #拉取源码
@@ -37,7 +37,7 @@
     #保存后，进入lean源码目录
     cd package/lean/
     #下载源码
-    git clone https://github.com/maxlicheng/luci-app-ssr-plus.git
+    git clone https://github.com/jinqiangtop/luci-app-ssr-plus.git
     #回到源码根目录
     cd ../..
     #拉取源码
